@@ -1,9 +1,27 @@
-# EV-PROJECT
-This REPO contains files provided in class and cleaned/manipulated data for the EV charging stations class project.
-
-__File format guide__
-Files will contain an ID code at the end file EX: _cl that will identify if what type of file it is.
-- _raw = raw data sources that have not been manipulated from the original source.
-- _man = manipulated data that isn't necessarily cleaned.
-- _cl = cleaned and manipulated data
-- _useable = any file that is completly ready to be used in the final analysis and can be used in your portfolio.
+# Investments for Electric Vehicles
+Focusing on identifying optimal locations for electric vehicle charging stations. Leveraging data analysis techniques and tools, this project provides valuable insights into strategic areas for investment in the growing electric vehicle infrastructure.
+## Features
+Folders:
+1. Data sets aquired
+2. Group data sets that were cleaned and SQL tables
+Files:
+1. Excel spreadsheet on all the data and created pivots
+2. An EDA of the analyzed data
+## Getting Started
+### Prerequisites
+- Python 3.6 or higher
+- Jupyter Notebook
+- Excel
+- SQLite
+### Installation
+Clone the repo
+```bash
+git clone (https://github.com/blessingbuddha/Data-Analyst-Projects.git)
+```
+Install Python packages
+```bash
+pip install -r requirements.txt
+```
+```bash
+pip install jupyter notebook
+```
