@@ -16,7 +16,7 @@ Files:
 ### Installation
 Clone the repo
 ```bash
-git clone (https://github.com/blessingbuddha/Data-Analyst-Projects.git)
+git clone (https://github.com/CraigRLittle/EV-PROJECT.git)
 ```
 Install Python packages
 ```bash
