@@ -3,25 +3,11 @@ Focusing on identifying optimal locations for electric vehicle charging stations
 ## Features
 Folders:
 1. Data sets aquired
-2. Group data sets that were cleaned and SQL tables
+2. Group data sets cleaned
+3. Data cleaned and plotted in Python / Matplotlib
+4. Created stand alone visualization with reccomendation
 Files:
 1. Excel spreadsheet on all the data and created pivots
 2. An EDA of the analyzed data
-## Getting Started
-### Prerequisites
-- Python 3.6 or higher
-- Jupyter Notebook
-- Excel
-- SQLite
-### Installation
-Clone the repo
-```bash
-git clone (https://github.com/CraigRLittle/EV-PROJECT.git)
-```
-Install Python packages
-```bash
-pip install -r requirements.txt
-```
-```bash
-pip install jupyter notebook
-```
+3. Python / Matplot lib graph
+4. Tableau visualization
